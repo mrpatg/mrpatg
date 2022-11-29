@@ -8,5 +8,5 @@ I'm a former web developer turned **GOVERNMENT ORACLE DRONE**. I spend most of m
 
 
 Links of interest:
-* [mrpatg on fosstodon](https://fosstodon.org/web/@mrpatg)
+* [mrpatg on fosstodon](https://fosstodon.org/web/@mrpatg {rel="me"})
 * contribute to openstreetmaps 
